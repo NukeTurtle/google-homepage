@@ -30,7 +30,7 @@ nav div:nth-child(1){
     justify-content: start;
 }
 nav div:nth-child(2){
-    justify-content: end;
+    justify-content: flex-end;
     text-align: right;
     right: 0;
 }
